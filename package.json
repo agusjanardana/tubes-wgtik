@@ -1,0 +1,19 @@
+{
+  "name": "wgtik",
+  "version": "1.0.0",
+  "description": "Find Doctor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.16.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mustache": "^4.1.0",
+    "sweetalert": "^2.1.2"
+  }
+}
